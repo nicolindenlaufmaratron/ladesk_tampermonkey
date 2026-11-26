@@ -4,7 +4,7 @@ Markdown rendering and live editor previews for LiveAgent internal notes on `akk
 
 ## Install
 
-Install Tampermonkey, then open **[Install ladesk.md](https://raw.githubusercontent.com/nicolindenlaufmaratron/ladesk_tampermonkey/main/ladesk.md.user.js)** and confirm the installation. If you already installed the script manually, install this version once to add its update URLs. The name and namespace are unchanged so Tampermonkey can recognize the existing script.
+Install Tampermonkey, then open **[Install ladesk.md](https://raw.githubusercontent.com/MaratronGmbH/ladesk_tampermonkey/main/ladesk.md.user.js)** and confirm the installation. If you already installed the script manually, install this version once to add its update URLs. The name and namespace are unchanged so Tampermonkey can recognize the existing script.
 
 Tampermonkey can check this repository for updates using the script's `@updateURL` and `@downloadURL`. Keep script update checks enabled in Tampermonkey.
 

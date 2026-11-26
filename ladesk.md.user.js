@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         ladesk.md
 // @namespace    http://tampermonkey.net/
-// @version      2026.11.23.1
-// @homepageURL  https://github.com/nicolindenlaufmaratron/ladesk_tampermonkey
-// @updateURL    https://raw.githubusercontent.com/nicolindenlaufmaratron/ladesk_tampermonkey/main/ladesk.md.user.js
-// @downloadURL  https://raw.githubusercontent.com/nicolindenlaufmaratron/ladesk_tampermonkey/main/ladesk.md.user.js
+// @version      2026.11.26.1
+// @homepageURL  https://github.com/MaratronGmbH/ladesk_tampermonkey
+// @updateURL    https://raw.githubusercontent.com/MaratronGmbH/ladesk_tampermonkey/main/ladesk.md.user.js
+// @downloadURL  https://raw.githubusercontent.com/MaratronGmbH/ladesk_tampermonkey/main/ladesk.md.user.js
 // @description  Markdown rendering for LiveAgent notes
 // @author       nicolindenlaufmaratron
 // @match        https://akkuzentrum.ladesk.com/agent/index.php*
